@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently working on a PHP Web Application
+
+🌱 I’m currently learning React Native
+
+📫 Call me at +91-88900-55140
 <!--
 **Divyavrat/Divyavrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
