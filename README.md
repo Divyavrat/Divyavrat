@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a PHP Web Application
+🔭 I’m currently working on React Web Applications
 
-🌱 I’m currently learning React Native
+💬 I also work on PHP and React Native
+
+⚡ Ask me about my Rapid Protyping
 
 📫 Call me at +91-88900-55140
 <!--
